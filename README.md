@@ -4,10 +4,12 @@ To use this project, you must have Python, Django and Django REST Framework inst
 
     1 - Clone this repository into your system.
     2 - Open CLI (Command Line Interface) and move to the directory in which repository has been cloned.
-    3 - Run this command in CLI - "python manage.py runserver".
-    4 - Open any browser and open this url - "http://127.0.0.1:8000/api/age/".
-    5 - In 'content' box, enter 'day', 'month' and 'year' of your birth.
-    6 - Click on POST button in bottom right corner to see your present age.
+    3 - Run this command in CLI - "python manage.py makemigrations".
+    4 - Run this command in CLI - "python manage.py migrate".
+    5 - Run this command in CLI - "python manage.py runserver".
+    6 - Open any browser and open this url - "http://127.0.0.1:8000/api/age/".
+    7 - In 'content' box, enter 'day', 'month' and 'year' of your birth.
+    8 - Click on POST button in bottom right corner to see your present age.
 
 Code -
 ![Screenshot (120)](https://user-images.githubusercontent.com/55790367/154109184-d08e8108-3de3-4959-8148-eae752842648.png)
