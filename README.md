@@ -8,3 +8,5 @@ To use this project, you must have Python, Django and Django REST Framework inst
     4 - Open any browser and open this url - "http://127.0.0.1:8000/api/age/".
     5 - In 'content' box, enter 'day', 'month' and 'year' of your birth.
     6 - Click on POST button in bottom right corner to see your present age.
+
+![Screenshot (119)](https://user-images.githubusercontent.com/55790367/154108844-e26eb7bf-93da-4b64-83ce-234335e01583.png)
