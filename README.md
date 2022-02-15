@@ -1,4 +1,4 @@
-# To use this project, you must have Python, Django and Django REST Framework installed in your system.
+To use this project, you must have Python, Django and Django REST Framework installed in your system.
 
 # Steps to use this project -
 
